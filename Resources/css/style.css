@@ -8,11 +8,10 @@ body{
   display: block;
   font-family: Helvetica, sans-serif;
   line-weight: 1.4em;
-  margin: 0;
 }
 
 .company{
-  background-color:  black;
+  background-color: black;
   color: white;
 }
 
