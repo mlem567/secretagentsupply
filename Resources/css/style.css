@@ -6,3 +6,18 @@
 div{
   display: block;
 }
+
+
+.leadline{
+background-color: black;
+color: white;
+width: 20em;
+padding: 2em 3em;
+position: relative;
+top: 9em;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
