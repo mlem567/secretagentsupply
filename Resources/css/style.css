@@ -10,3 +10,28 @@ body{
   line-weight: 1.4em;
   margin: 0;
 }
+
+.company{
+  background-color:  black;
+  color: white;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.company .container{
+  display: flex;
+  align-items: center;
+  padding: 12px 0 12px .5em;
+}
+
+.company img{
+  height: 1.5em;
+  padding-right: 15px;
+}
+
+img{
+  border-style; none;
+}
