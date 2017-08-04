@@ -40,11 +40,6 @@ top: 9em;
   padding: 12px 0 12px .5em;
 }
 
-.company{
-  background-color: black;
-  color: white;
-}
-
 .company img{
   height: 1.5em;
   padding-right: 15px;
@@ -52,11 +47,6 @@ top: 9em;
 
 img{
   border-style; none;
-}
-
-body{
-  font-family: Helvetica, sans-serif;
-  line-height: 1.4em;
 }
 
 .main-section{
