@@ -72,6 +72,12 @@ nav ul {
     font-weight: bold;
   }
 
+  .headline h1 {
+    font-size: 2em;
+    line-height: 1.2em
+    margin: 0.25em 0;
+  }
+
   .products, .business-info {
     display: flex;
     justify-content: space-between;
