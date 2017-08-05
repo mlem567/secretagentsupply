@@ -1,15 +1,14 @@
 
-html{
+html {
   font-size: 18px;
   background-color: green;
 }
 
-head{
+head {
   display: none;
 }
 
-body{
-  <!-- display: block;  -->
+body {
   font-family: Helvetica, sans-serif;
   line-height: 1.4em;
 }
@@ -24,13 +23,13 @@ body{
   margin: 0 auto;
 }
 
-.company .container{
+.company .container {
   display: flex;
   align-items: center;
   padding: 12px 0 12px .5em;
 }
 
-.company img{
+.company img {
   height: 1.5em;
   padding-right: 15px;
 }
