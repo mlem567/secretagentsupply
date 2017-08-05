@@ -73,7 +73,7 @@ nav ul {
     font-weight: bold;
   }
 
-  .products {
+  .products, .business-info {
     display: flex;
     justify-content: space-between;
     margin: 3em 0 0 0;
@@ -102,4 +102,22 @@ nav ul {
   color: white;
   text-align: center;
   padding: .5em;
+}
+
+.info {
+  width: 35%;
+}
+
+.info .title {
+  display: block;
+  background-color: black;
+  color: white;
+  padding: 1em 2em;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  padding: 5em 0;
+  margin-top: 4em;
 }
