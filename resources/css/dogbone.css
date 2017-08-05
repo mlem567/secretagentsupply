@@ -1,7 +1,7 @@
 
 html{
   font-size: 18px;
-  background-color: white;
+  background-color: green;
 }
 
 head{
@@ -9,9 +9,9 @@ head{
 }
 
 body{
-  display: block;
+  <!-- display: block;  -->
   font-family: Helvetica, sans-serif;
-  line-weight: 1.4em;
+  line-height: 1.4em;
 }
 
 .company {
@@ -73,7 +73,7 @@ nav ul {
     font-weight: bold;
   }
 
-  .products, .business-info {
+  .products {
     display: flex;
     justify-content: space-between;
     margin: 3em 0 0 0;
@@ -90,6 +90,10 @@ nav ul {
     display:flex;
     justify-content: center;
     align-items: center;
+  }
+
+  .product-image img {
+    max-width: 8em;
   }
 
 .description{
