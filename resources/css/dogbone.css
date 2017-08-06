@@ -154,10 +154,10 @@ nav ul {
   display: none;
 }
 
-.mobile-nav: {
+.mobile-nav{
   display: block;
   text-align: center;
-}
+  }
 }
 
 @media only screen and (max-width: 470px){
